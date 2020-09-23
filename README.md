@@ -1,26 +1,26 @@
 ### Greetings! 👋
 #### ⚡ Fun fact: 
-I'm a Warhammer 40k hobbyist and I enjoy building and painting miniture figurines when I'm not building on my technology side project. Therefore, as appropriate within the lore of Warhammer 40k I'd certainly be a Techmarine with the following specialities (not official 40k terms...just listing for fun):
+I'm a Warhammer 40k hobbyist and I enjoy building and painting miniture figurines when I'm not building on my technology side projects. Therefore, as appropriate within the lore of Warhammer 40k I'd certainly be a Techmarine with the following specialities (not official 40k terms...just listing for fun):
 
-```
-Security Logistician
-Azul Squad Cybersmith Aspirant
-Linux Tech-Adept
-Python Lexmechanic
-General Tech-Errant
+```bash
+echo "Security Logistician"
+echo "Azul Squad Cybersmith"
+echo "Linux Tech-Adept"
+echo "Python Lexmechanic"
+echo "General Tech-Errant"
 ```
 
 #### Current Projects:
-- 🔭 I’m currently working on building my home lab to deploy the following security to develop system administration skills and adhere to DevOps mentality and CI/CD workflow:
-  - Elastic stack
-  - Moloch
-  - The Hive
-  - Security Onion
+- 🔭 I’m currently working on building my home lab to deploy the following security projects to develop system administration skills and adhere to DevOps mindset and CI/CD workflow:
+  - Elastic stack - log ingestion pipeline, search analytics engine, and data visualization application stack
+  - Moloch - a packet capture (PCAP) index application for network security analysis
+  - The Hive - a security incident response and case management application
+  - Security Onion - a network security monitoring and alerting solution
 
 #### Current Learning Objectives:
 - 🌱 I’m currently learning the following:
   - Python for data analysis, information security, and network administration
-  - Ansible for infrastructure configuration management and security orchestration
+  - Ansible for infrastructure configuration management, information security orchestration, and network administration
   - Elastic stack management techniques to develop new kibana visuals, SIEM detections, and logstash log source parsers
 
 
