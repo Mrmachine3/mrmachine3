@@ -1,21 +1,24 @@
 ### Greetings! 👋
 #### ⚡ Fun fact: 
-I'm a Warhammer 40k hobbyist and I enjoy building and painting miniture figurines when I'm not building on my technology side projects. Therefore, as appropriate within the lore of Warhammer 40k I'd certainly be a Techmarine with the following specialities (not official 40k terms...just listing for fun):
+I'm a Warhammer 40k hobbyist and I enjoy building and painting miniature figurines when I'm not building upon my technology side projects. Therefore, as appropriate within the lore of Warhammer 40k I'd certainly be a Techmarine with the following specialities (not official 40k terms...just listing for fun):
 
 ```bash
+whoami
 echo "Security Logistician"
-echo "Azul Squad Cybersmith"
+echo "Blue Squad Cybersmith"
 echo "Linux Tech-Adept"
 echo "Python Lexmechanic"
 echo "General Tech-Errant"
 ```
 
-#### Current Projects:
-- 🔭 I’m currently working on building my home lab to deploy the following security projects to develop system administration skills and adhere to DevOps mindset and CI/CD workflow:
-  - Elastic stack - log ingestion pipeline, search analytics engine, and data visualization application stack
-  - Moloch - a packet capture (PCAP) index application for network security analysis
+#### Current Project:
+- 🔭 Building my home lab to run containerized workloads consisting of security monitoring services and infrastructure automation tools: 
+  - Elastic stack - log harvesting agents, log ingestion/parsing/enrichment pipelines, search analytics engine, and data visualization application stack
+  - Zeek - a network security protocol analysis solution
   - The Hive - a security incident response and case management application
-  - Security Onion - a network security monitoring and alerting solution
+  - Hashicorp Packer - a machine image building tool for software packaging
+  - Ansible - an automation tool for deploying and provisioning resources
+
 
 #### Current Learning Objectives:
 - 🌱 I’m currently learning the following:
@@ -23,15 +26,38 @@ echo "General Tech-Errant"
   - Ansible for infrastructure configuration management, information security orchestration, and network administration
   - Elastic stack management techniques to develop new kibana visuals, SIEM detections, and logstash log source parsers
 
-- 👯 I’m looking to collaborate on project that will advance my skills as a SIEM and threat detection engineer focused on endpoint and network intrusion scenarios.
+- 👯 I’m looking to collaborate on projects that will advance my skills as a SIEM and threat detection engineer focused on host-based and network-based intrusion scenarios.
 
 - 📫 Send me an email at [info.machineinit@gmail.com](mailto:info.machineinit@gmail.com)
-- 💬 I'm also active on the following social media platforms:
-  - [Instagram](https://www.instagram.com/m1ster_machine/)
-  - [Twitter](https://twitter.com/mrmachine31)
 
+#### Social media platforms:
+
+<p align="center">
+  
+  <!--
+    https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
+    https://simpleicons.org/
+  -->
+  
+  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrmachine31)
+  
+</p>
+
+<p align="center">
+  
+  <!--
+    https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
+    https://simpleicons.org/
+  -->
+  
+  [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1ster_machine/)
+  
+</p>
+
+<!--
 - Finally, my new blog:
   - [mrmachine.hashnode.dev/](https://mrmachine.hashnode.dev/)
+-->
   
 <!--
 **Mrmachine3/mrmachine3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
