@@ -24,10 +24,10 @@ echo "General Tech-Errant"
 - I’m currently learning the following:
   - Python for data analysis, information security, and network administration
   - Ansible for infrastructure configuration management, information security orchestration, and network administration
-  - Elastic stack management techniques to develop new kibana visuals, SIEM detections, and logstash log source parsers
-- I’m looking to collaborate on projects that will advance my skills as a SIEM and threat detection engineer focused on host-based and network-based intrusion scenarios.
+  - Elastic stack management techniques to develop Kibana visuals, Elastic Security SIEM detections, and Logstash log  parsers
+- I’m looking to collaborate on projects that will advance my skills as a SIEM/threat detection engineer focused on host-based and network-based intrusion scenarios.
 
-#### Social media platforms:
+#### Contact Information:
 <p align="center">
   
   <!--
