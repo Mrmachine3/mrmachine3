@@ -35,7 +35,7 @@ echo "General Tech-Errant"
     https://simpleicons.org/
   -->
   
-  [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.machineinit@gmail.com)
+  [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony@machineinit.com)
   
 </p>
 
